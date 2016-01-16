@@ -1,0 +1,12 @@
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\bin\Debug\SexyAkali.exe.config
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\bin\Debug\SexyAkali.exe
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\bin\Debug\SexyAkali.pdb
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\bin\Debug\EloBuddy.dll
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\bin\Debug\EloBuddy.SDK.dll
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\bin\Debug\SharpDX.dll
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\bin\Debug\Newtonsoft.Json.dll
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\obj\Debug\SexyAkali.csprojResolveAssemblyReference.cache
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\obj\Debug\SexyAkali.exe
+c:\users\krystian\documents\visual studio 2015\Projects\SexyAkali\SexyAkali\obj\Debug\SexyAkali.pdb
