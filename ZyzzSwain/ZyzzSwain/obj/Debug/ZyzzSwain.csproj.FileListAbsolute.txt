@@ -1,0 +1,11 @@
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\bin\Debug\ZyzzSwain.exe.config
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\bin\Debug\ZyzzSwain.exe
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\bin\Debug\ZyzzSwain.pdb
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\bin\Debug\EloBuddy.dll
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\bin\Debug\EloBuddy.SDK.dll
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\bin\Debug\SharpDX.dll
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\bin\Debug\Newtonsoft.Json.dll
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\obj\Debug\ZyzzSwain.csprojResolveAssemblyReference.cache
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\obj\Debug\ZyzzSwain.exe
+c:\users\krystian\documents\visual studio 2015\Projects\ZyzzSwain\ZyzzSwain\obj\Debug\ZyzzSwain.pdb
