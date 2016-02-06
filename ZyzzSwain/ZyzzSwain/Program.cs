@@ -19,7 +19,10 @@ namespace ZyzzSwain
         public static Spell.Active R;
         private const string Champion = "Swain";
         private static Menu Config, ComboMenu, HarrasMenu, LaneClearMenu, LastHitMenu;
-        private static Item Zhonya;
+        public static Item Zhonya;
+        public static readonly Item Zhonyas = new Item(ItemId.Zhonyas_Hourglass);
+
+
         private static bool RavenForm;
 
         public static AIHeroClient Player
@@ -137,9 +140,9 @@ namespace ZyzzSwain
 
 
             if (!RavenForm || !(Player.Health <= HealthLimit)) return;
-            if (Zhonya.IsReady())
+            if (Zhonyas.IsReady())
             {
-                Zhonya.Cast();
+                Zhonyas.Cast();
             }
         }
 
